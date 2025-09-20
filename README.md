@@ -6,3 +6,7 @@
     The door opens 🚪
   </p>
 </div>
+
+## Tasks ✔️ 
+- [ ] Colorlab.js
+- [ ] load.js
