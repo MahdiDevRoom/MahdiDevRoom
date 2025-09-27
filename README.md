@@ -7,6 +7,19 @@
   </p>
 </div>
 
-## Tasks ✔️ 
+## Tasks️ (Unordered) 
 - [ ] Colorlab.js
 - [ ] load.js
+- [ ] Shapes.js
+- [ ] SoundEngin.js
+- [ ] ImagePalette.js
+- [ ] Mushroom.js
+- [ ] Bundle.js
+- [ ] Ripple.js
+- [ ] PromiseEvents.js
+- [ ] Marshmallow.js
+
+## Ummm 🤔
+- [ ] Galaxy 
+- [ ] Calculator 
+- [ ] ColorBook 
