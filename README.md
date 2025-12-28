@@ -18,8 +18,4 @@
 - [ ] Ripple.js
 - [ ] PromiseEvents.js
 - [ ] Marshmallow.js
-
-## Ummm 🤔
-- [ ] Galaxy 
-- [ ] Calculator 
-- [ ] ColorBook 
+- [ ] CLI.js
