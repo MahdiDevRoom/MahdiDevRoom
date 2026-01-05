@@ -8,7 +8,7 @@
 </div>
 
 ## Tasks️ (Unordered) 
-- [ ] Colorlab.js
+- [x] Colorlab.js
 - [ ] load.js
 - [ ] Shapes.js
 - [ ] SoundEngin.js
