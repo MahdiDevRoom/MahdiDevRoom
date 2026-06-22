@@ -1,21 +1,8 @@
 <div align="center">
-  <img src="./MahdiDevRoom.png">
+  <img src="./devroom.svg">
   <h1> MahdiDevRoom </h1>
   <p>
     It’s time to begin again.<br>
     The door opens 🚪
   </p>
 </div>
-
-## Tasks️ (Unordered) 
-- [x] Colorlab.js
-- [ ] load.js
-- [ ] Shapes.js
-- [ ] SoundEngin.js
-- [ ] ImagePalette.js
-- [ ] Mushroom.js
-- [ ] Bundle.js
-- [ ] Ripple.js
-- [ ] PromiseEvents.js
-- [ ] Marshmallow.js
-- [ ] CLI.js
