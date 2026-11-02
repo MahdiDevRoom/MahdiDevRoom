@@ -21,6 +21,7 @@
   <img width="64" src="assets/skills/git.svg">
   <img width="64" src="assets/skills/github.svg">
   <img width="64" src="assets/skills/react.svg">
+  <img width="64" src="assets/skills/zustand.svg">
   <img width="64" src="assets/skills/vite.svg">
   <img width="64" src="assets/skills/vscode.svg">
   <img width="64" src="assets/skills/next.svg">
