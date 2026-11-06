@@ -1,0 +1,49 @@
+{
+    "window.commandCenter": false,
+    "chat.titleBar.signIn.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "chat.titleBar.openInAgentsWindow.enabled": false,
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "workbench.browser.showInTitleBar": false,
+    "workbench.iconTheme": "charmed-icons",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "Google Sans Code",
+    "editor.fontWeight": "400",
+    "editor.fontSize": 12,
+    "editor.letterSpacing": 0.5,
+    "editor.lineHeight": 1.5,
+    "editor.allowVariableFonts": true,
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.startupEditor": "none",
+    "workbench.colorCustomizations": {
+        "editor.foldBackground": "#00000000",
+        "editorGutter.background": "#00000000"
+    },
+    "terminal.integrated.stickyScroll.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "js/ts.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmPasteNative": false,
+    "editor.tabSize": 2,
+    "explorer.compactFolders": false,
+    "svelte.enable-ts-plugin": true,
+    "window.menuBarVisibility": "compact",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorTheme": "Darkberry Blackwater",
+    "breadcrumbs.enabled": false,
+    "git.openRepositoryInParentFolders": "never",
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}

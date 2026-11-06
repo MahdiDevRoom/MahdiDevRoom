@@ -1,0 +1,60 @@
+[
+    {
+        "key": "ctrl+shift+d",
+        "command": "-workbench.view.debug",
+        "when": "viewContainer.workbench.view.debug.enabled"
+    },
+    {
+        "key": "ctrl+shift+d",
+        "command": "editor.action.copyLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+alt+down",
+        "command": "-editor.action.copyLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+t c",
+        "command": "editor.action.transformToCamelcase"
+    },
+    {
+        "key": "ctrl+shift+t k",
+        "command": "editor.action.transformToKebabcase"
+    },
+    {
+        "key": "ctrl+shift+t l",
+        "command": "editor.action.transformToLowercase"
+    },
+    {
+        "key": "ctrl+shift+t p",
+        "command": "editor.action.transformToPascalcase"
+    },
+    {
+        "key": "ctrl+shift+t s",
+        "command": "editor.action.transformToSnakecase"
+    },
+    {
+        "key": "ctrl+shift+t t",
+        "command": "editor.action.transformToTitlecase"
+    },
+    {
+        "key": "ctrl+shift+t u",
+        "command": "editor.action.transformToUppercase"
+    },
+    {
+        "key": "ctrl+shift+/",
+        "command": "-workbench.action.chat.focusTip",
+        "when": "inChat || inChatComposer || inChat && inChatComposer || inChat && inChatTip || inChatComposer && inChatTip"
+    },
+    {
+        "key": "ctrl+shift+/",
+        "command": "editor.action.blockComment",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+a",
+        "command": "-editor.action.blockComment",
+        "when": "editorTextFocus && !editorReadonly"
+    }
+]
